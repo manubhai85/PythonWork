@@ -1,0 +1,11 @@
+README.txt
+demo.py
+setup.py
+abc1234.egg-info/PKG-INFO
+abc1234.egg-info/SOURCES.txt
+abc1234.egg-info/dependency_links.txt
+abc1234.egg-info/entry_points.txt
+abc1234.egg-info/requires.txt
+abc1234.egg-info/top_level.txt
+myPackage/__init__.py
+myPackage/demo.py
